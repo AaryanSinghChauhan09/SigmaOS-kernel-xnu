@@ -1,0 +1,10 @@
+[package]
+name = "sigmaos_kernel_xnu"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "sigmaos_kernel_xnu"
+path = "src/lib.rs"
+
+[dependencies]
